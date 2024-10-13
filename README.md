@@ -41,5 +41,3 @@ Dieses Projekt stellt zwei Filterlisten zur Verfügung: eine Phishing-Filterlist
 Aktualisierung der Filterlisten
 
 Die Filterlisten werden regelmäßig aktualisiert. Dein Adblocker wird diese automatisch abrufen und aktualisieren, sobald du sie hinzugefügt und aktiviert hast.
-
-Dieses Tutorial erklärt, wie die Nutzer beide Filterlisten in uBlock einfügen und nutzen können. Lass mich wissen, falls du noch Änderungen wünschst!
