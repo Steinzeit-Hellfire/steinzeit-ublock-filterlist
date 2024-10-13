@@ -1,0 +1,3 @@
+! Kommentar für deine Filterliste
+example.com##.werbung   ! Blendet Elemente mit der Klasse "werbung" auf example.com aus
+example.net##.ad-banner ! Blendet Werbebanner auf example.net aus
