@@ -17,7 +17,9 @@ Phishing-Filter hinzufügen
 
 6. Füge die folgende URL für die Phishing-Filterliste ein:
 
+
     ```https://raw.githubusercontent.com/your-username/ublock-filterlist/main/filters.txt```<br/><br/>
+
 
 7. Bestätige und aktiviere die Filterliste.
 
