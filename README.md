@@ -17,9 +17,7 @@ Phishing-Filter hinzufügen
 
     Füge die folgende URL für die Phishing-Filterliste ein:
 
-    arduino
-
-    https://raw.githubusercontent.com/your-username/ublock-filterlist/main/filters.txt
+    ```https://raw.githubusercontent.com/your-username/ublock-filterlist/main/filters.txt```<br/><br/>
 
     Bestätige und aktiviere die Filterliste.
 
@@ -39,7 +37,7 @@ Malware-Filter hinzufügen
 
     arduino
 
-    https://raw.githubusercontent.com/your-username/ublock-filterlist/main/malware_filters.txt
+    ```https://raw.githubusercontent.com/your-username/ublock-filterlist/main/malware_filters.txt```<br/><br/>
 
     Bestätige und aktiviere die Filterliste.
 
