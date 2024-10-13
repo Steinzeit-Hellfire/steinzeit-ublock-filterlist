@@ -4,7 +4,7 @@ Nutzung der UBlock-Filterlisten
 
 Dieses Projekt stellt zwei Filterlisten zur Verfügung: eine Phishing-Filterliste und eine Malware-Filterliste. Diese Listen werden regelmäßig aktualisiert und helfen dabei, bösartige URLs zu blockieren.
 
-Phishing-Filter hinzufügen
+**Phishing-Filter hinzufügen**
 
 1. Öffne deinen uBlock Origin.
 
@@ -22,7 +22,7 @@ Phishing-Filter hinzufügen
 
 6. Bestätige und aktiviere die Filterliste.
 
-Malware-Filter hinzufügen
+**Malware-Filter hinzufügen**
 
 1. Öffne deinen uBlock Origin.
 
