@@ -35,7 +35,6 @@ Dieses Projekt stellt zwei Filterlisten zur Verfügung: eine Phishing-Filterlist
 5. Füge die folgende URL für die Phishing-Filterliste ein:
 
     ```https://raw.githubusercontent.com/your-username/ublock-filterlist/main/malware_filters.txt```<br/><br/>
-
 7. Bestätige und aktiviere die Filterliste.
 
 Aktualisierung der Filterlisten
