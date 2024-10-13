@@ -5,21 +5,21 @@ Nutzung der UBlock-Filterlisten
 Dieses Projekt stellt zwei Filterlisten zur Verfügung: eine Phishing-Filterliste und eine Malware-Filterliste. Diese Listen werden regelmäßig aktualisiert und helfen dabei, bösartige URLs zu blockieren.
 Phishing-Filter hinzufügen
 
-    Öffne deinen uBlock Origin- oder einen ähnlichen Adblocker.
+1. Öffne deinen uBlock Origin- oder einen ähnlichen Adblocker.
 
-    Navigiere zu den Einstellungen des Adblockers.
+2. Navigiere zu den Einstellungen des Adblockers.
 
-    Wähle den Tab "Filterlisten" aus.
+3. Wähle den Tab "Filterlisten" aus.
 
-    Scrolle nach unten zu "Benutzerdefinierte Filterlisten" oder einem ähnlichen Abschnitt.
+4. Scrolle nach unten zu "Benutzerdefinierte Filterlisten" oder einem ähnlichen Abschnitt.
 
-    Klicke auf "Eine neue Filterliste hinzufügen".
+5. Klicke auf "Eine neue Filterliste hinzufügen".
 
-    Füge die folgende URL für die Phishing-Filterliste ein:
+6. Füge die folgende URL für die Phishing-Filterliste ein:
 
     ```https://raw.githubusercontent.com/your-username/ublock-filterlist/main/filters.txt```<br/><br/>
 
-    Bestätige und aktiviere die Filterliste.
+7. Bestätige und aktiviere die Filterliste.
 
 Malware-Filter hinzufügen
 
