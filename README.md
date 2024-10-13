@@ -25,23 +25,21 @@ Phishing-Filter hinzufügen
 
 Malware-Filter hinzufügen
 
-    Öffne deinen uBlock Origin- oder einen ähnlichen Adblocker.
+1. Öffne deinen uBlock Origin- oder einen ähnlichen Adblocker.
 
-    Navigiere zu den Einstellungen des Adblockers.
+2. Navigiere zu den Einstellungen des Adblockers.
 
-    Wähle den Tab "Filterlisten" aus.
+3. Wähle den Tab "Filterlisten" aus.
 
-    Scrolle nach unten zu "Benutzerdefinierte Filterlisten" oder einem ähnlichen Abschnitt.
+4. Scrolle nach unten zu "Benutzerdefinierte Filterlisten" oder einem ähnlichen Abschnitt.
 
-    Klicke auf "Eine neue Filterliste hinzufügen".
+5. Klicke auf "Eine neue Filterliste hinzufügen".
 
-    Füge die folgende URL für die Malware-Filterliste ein:
-
-    arduino
+6. Füge die folgende URL für die Malware-Filterliste ein:
 
     ```https://raw.githubusercontent.com/your-username/ublock-filterlist/main/malware_filters.txt```<br/><br/>
 
-    Bestätige und aktiviere die Filterliste.
+7.Bestätige und aktiviere die Filterliste.
 
 Aktualisierung der Filterlisten
 
