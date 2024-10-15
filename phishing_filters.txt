@@ -133,7 +133,6 @@
 ||http://www.circus-oskani.de/wp-content/postal/^
 ||https://facebook-support-verfy.pages.med.br/security^
 ||http://app.paxfulinv.com/#/pages/login/index^
-||https://sites.google.com/view/at8thgfeswqwe/home^
 ||https://whatsapp-ja.org/^
 ||http://advisory-recommendations.vercel.app/^
 ||https://ee-account-security.web.app/^
@@ -280,6 +279,7 @@
 ||http://watsker.com/^
 ||http://cp08484.tw1.ru/^
 ||https://servicemail075.wixsite.com/system-update1^
+||https://ltm7-colombia.fly.dev/^
 ||https://usps.com-tracknaf.top/l^
 ||https://metta-signnuexmask.godaddysites.com/^
 ||http://krakeanlogia.gitbook.io/us/^
