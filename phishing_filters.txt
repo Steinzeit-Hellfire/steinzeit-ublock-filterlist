@@ -111,6 +111,7 @@
 ||http://web-git-tina-allow-bad-limit-uniswap.vercel.app/^
 ||http://loginnetflixleiojfioje.blogspot.com.cy/^
 ||http://metamask-wallett.blogspot.ro/^
+||http://login.group.dpd.ch.35-159-16-41.cprapid.com/dpd.kunden/^
 ||http://currentlyattyahoo066.weebly.com/^
 ||https://talvoltatalvolta-fc3380.ingress-haven.ewp.live/wp-content/plugins/mikrosteuereinh/pages/region.php?lca^
 ||http://webmail-wayolo.pages.dev/^
@@ -167,7 +168,6 @@
 ||http://learn--trezorlogin.gitbook.io/^
 ||http://gumebo.pages.dev/^
 ||https://moetamsk-login.gitbook.io/^
-||http://bafybeicdzoq5hmuya3kmpoz24l7rvevdzkruh36ubjaw7kvpnu7trdcz3i.ipfs.dweb.link/^
 ||http://bafybeicjl6pg4wp4nvwtm2akg4vzgzu5s7cbi5kqnu4bi6z7l3k4p3f3by.ipfs.w3s.link/^
 ||https://bt-105315.weeblysite.com/^
 ||http://maitemacsklogiz.gitbook.io/^
@@ -318,7 +318,6 @@
 ||http://att-inc-107097.weeblysite.com/^
 ||http://locze-c726.butheonevernn.workers.dev/^
 ||http://byb763223.com/^
-||http://majdiwalton.com/^
 ||https://bt-100966.weeblysite.com/^
 ||http://kraikenslogiu.gitbook.io/^
 ||http://bafybeibssvjuztvrdeaxp2z77moa4x52tn2r7mw57g4om4upf4l6do334m.ipfs.dweb.link/^
@@ -454,6 +453,7 @@
 ||https://shopee86.com/index/user/login.html^
 ||http://zawgyee.pages.dev/^
 ||http://ee-update-account.web.app/^
+||http://login.group.dpd.ch.35-159-16-41.cprapid.com/dpd.kunden^
 ||http://b1797.com/^
 ||http://e9kq7y.shop/^
 ||http://jefradrsw.weebly.com/^
