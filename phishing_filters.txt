@@ -30,6 +30,7 @@
 ||http://idapple.help/a.php^
 ||http://findonline.help/a.php^
 ||https://pub-4a585668945a45a299e1c274db206d4c.r2.dev/index.html^
+||https://rectifyexplorer.pages.dev/^
 ||http://ksupk.com/^
 ||https://crrmier.cyou/lander/sber/^
 ||https://login.officesoftwareupdate.com/^
@@ -98,7 +99,6 @@
 ||https://hsbc-soc-main.azurewebsites.net/^
 ||https://www-findmy-iphon-e.us/a.php/^
 ||https://conbaspaswordrecovery.gitbook.io/us^
-||https://ceteibters.sa.com/^
 ||http://netflix-gamma-one.vercel.app/^
 ||https://choppetonig.github.io/i/^
 ||https://userrpriya.github.io/NetflixClone/^
