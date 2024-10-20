@@ -241,6 +241,7 @@
 ||https://pub-1778406e4fec4394901793111c187dd9.r2.dev/index.html^
 ||https://pub-2925f759f5404c63b7c89a401b18e0d4.r2.dev/index.html^
 ||https://prasad99590.github.io/NetflixUIPractice.com/^
+||http://usernoticecompliancecheck-one.vercel.app/nano^
 ||https://help-helpmetamask.gitbook.io/us^
 ||https://x8qlfs2ocptor.pages.dev/smart89/^
 ||https://polikpock.homes/+sbcdRcINPLIB_b0^
@@ -319,7 +320,6 @@
 ||https://vivekv2003.github.io/Netflix-Clone/^
 ||https://request-free-verified-badges.vercel.app/^
 ||https://pub-a6d1b5d294e74ebfa58fae6d4ec861ef.r2.dev/index.html^
-||https://art-dex.vercel.app/^
 ||https://pub-2fefe932a6974485b987c9ba851b5c40.r2.dev/index.html^
 ||https://pub-c7f440236a9e4596b155c7ab367794d3.r2.dev/index.html^
 ||https://delivery.attempt.failure.ebbs.co.za/public/cAe8lPpOEn6f60pVubvGh8heMmhGXvvz^
