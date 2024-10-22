@@ -472,7 +472,6 @@
 ||http://www.davienaskincaree.com/register/^
 ||https://ynat.vercel.app/intest.html/^
 ||https://attworldmanagementiee.weebly.com/^
-||https://ebc-iota.vercel.app/verset.html^
 ||https://pancake-frontend-web-git-feature-remove-windo-9f50ad-chef-jerry.vercel.app/^
 ||http://hootbio.com/pdf-76850^
 ||https://fork-portfolio-metamask-io-2dfc4831f9e7f840.sitemod.io/^
@@ -495,6 +494,7 @@
 ||https://amendes-2.serv00.net/s/s/3dsec.php^
 ||https://security-account-advertising.netlify.app/^
 ||https://corefaffifre-9345.vercel.app/mixc.html^
+||https://pesacon.com/r/login^
 ||https://van2243.wixstudio.io/my-site^
 ||https://netzero-webmail-108561.weeblysite.com/^
 ||https://gtm.you1.cn/helpsteamen/wizard/HelpWithLogin?redir=https^
