@@ -126,7 +126,6 @@
 ||http://accounts.hngdcl.com/^
 ||https://cloudd-9049.tolevilmtohean.workers.dev/a4ad7099-b1df-4037-bf32-8774a2ec5b55^
 ||https://www.onlinestoretk.com/^
-||https://francesantander.github.io/netflix-clone-reactjs/^
 ||https://ourtime.upgrade-membeer.workers.dev/v3/datingtips^
 ||https://pub-b3a5733620d548a3bb070f10c1d69e56.r2.dev/index.html^
 ||https://6466758.dkio.sa.com/^
@@ -140,6 +139,7 @@
 ||https://pub-8680954ac59343df90befd1a6bcaf6a8.r2.dev/index.html^
 ||https://zachariah-three.vercel.app/hkruu.html^
 ||http://supportforbusinessess.click/^
+||http://ipfs.io/ipfs/QmQSidcgbERrT8jnieV8CwVpEpiTXhFpwo6k72VPYEomdK^
 ||https://duttweilerangel6891-sidebarg165895-flarew256.pages.dev/help/contact/406720754639161^
 ||https://complainthubstopviolation.vercel.app/nano^
 ||https://ayeshaaax.github.io/Netflix-Clone/^
