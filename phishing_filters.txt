@@ -2,7 +2,6 @@
 ||http://majida-67.github.io/netflixwebsite.github.com/^
 ||http://raghul-designer.github.io/Netflix-clone^
 ||http://scorpion10001.github.io/Netflix-Login-Page^
-||https://login.microsftonline.bcrpgob.com/common/oauth2/authorize.html^
 ||http://arjunshaw.github.io/4.7-Project-1-Netflix-/^
 ||http://pub-8580081af55240e892c6b1ee029c6c6f.r2.dev/index.html^
 ||http://pub-bbd27a63902048e7a8a9bc25a437a6b5.r2.dev/index.html^
@@ -67,6 +66,7 @@
 ||https://orgs-wallettconnect.gitbook.io/^
 ||http://pareshmore555.github.io/Netflix-landing-page/^
 ||https://sequoitteufoffau-5824.vercel.app/sux.woxil/^
+||http://pub-8bd7eeae8531405a9fd28abc5a27aeae.r2.dev/index.html^
 ||http://chrisdbeloved1.github.io/facebook-login^
 ||http://societywarrant.vercel.app/form.html^
 ||http://pub-4f50f42920ed4a7684256edba4751a4c.r2.dev/index.html^
@@ -92,6 +92,7 @@
 ||http://lucmar1077.github.io/tailwind-netflix-replica/^
 ||http://bafybeiclwl3rziqhbtbhk2pligjw7nypsvnp5b3tpxnbbdzom3k4qnnzli.ipfs.dweb.link/^
 ||http://recoupdz.top/login^
+||http://pavanlucky57.github.io/Task-1/^
 ||http://asad-work236.github.io/owqo^
 ||http://nikilkh.github.io/Netflix-clone^
 ||http://kuucckioneelos.gitbook.io/us/^
@@ -116,7 +117,6 @@
 ||https://wertytreservice.weebly.com/^
 ||http://pub-a0fba0bf2cf343bda5efbed226856320.r2.dev/index.html^
 ||https://metamask-wallett.blogspot.sk/^
-||http://xpjuana.github.io/webmail-tool^
 ||https://groudeppokeiffeu-8361.vercel.app/mixc.html^
 ||http://liveclaimairdse.pages.dev/^
 ||http://splendorshots.vercel.app/form.html/^
@@ -163,6 +163,7 @@
 ||http://kshitij12375.github.io/project6/^
 ||http://zaheerchandargi.github.io/Netflix^
 ||http://request-checksid-79952.pages.dev/robots.txt/^
+||http://mayurip-05.github.io/netflix/^
 ||http://vikrantsingh4.github.io/netflix-^
 ||http://johntizzyy.github.io/Netflix-landing-page^
 ||http://nvi-sonuc-sorgu.xyz/giris10.php^
@@ -233,6 +234,7 @@
 ||http://coinbeshapro-login.gitbook.io/us/^
 ||http://pralhadninawe25.github.io/Netflix-clone/^
 ||https://attmailrservicess.weebly.com/^
+||http://pub-257c4953131541f28361b9046cd3ab16.r2.dev/index.html^
 ||http://danaa4-payla4terss.allresmi.com/^
 ||https://webmailla.weebly.com/^
 ||https://netflixuae.com/^
@@ -241,6 +243,7 @@
 ||http://selmir.ru/^
 ||http://shabariprasannaa.github.io/Netflix_Homepage^
 ||http://metamaskruiondlogin.gitbook.io/^
+||http://niharikaveer.github.io/netflix-clone/^
 ||https://uspssmartparcellocker.tech/^
 ||https://conect--walleett.gitbook.io/^
 ||https://metamasksigins.blogspot.ug/^
@@ -248,7 +251,6 @@
 ||http://vector214.github.io/Netflix-clone/^
 ||http://emprende-venezuelss.pages.dev/robots.txt/^
 ||http://secure.rpcthai.com/^
-||https://chatpythia.info/bdv-enlineapersonaass/^
 ||http://request-label-13563325474.pages.dev/robots.txt/^
 ||http://calmer452.github.io/facebook.com^
 ||https://trezzor-loggn.gitbook.io/^
@@ -262,6 +264,7 @@
 ||http://comprobacionesdesistemas-ingresa-email.iceiy.com/?i=1^
 ||https://free-5513608.webadorsite.com/^
 ||http://lipika78.github.io/NetflixClone/^
+||http://n4itr0-07.github.io/Netflix-Clone/^
 ||https://pub-46e899551ee84c3aba3b96c2351d55c7.r2.dev/index15%20(2).html^
 ||http://login-microsoft-secure.vercel.app/^
 ||http://sr63921.github.io/shivam-2^
@@ -282,7 +285,6 @@
 ||http://kraikeinlogni.gitbook.io/us/^
 ||https://monalk.site/^
 ||https://dededikrfmfjdhsd.weebly.com/^
-||https://sempre-baratao-aqui.com/^
 ||https://extpaypalupdatenonqs.blogspot.com/^
 ||https://ledgerlave-loggin.gitbook.io/^
 ||http://emsuawe22n-osnxowi3-38kakmcla-owjwj-38ccaw.pages.dev/robots.txt/^
@@ -305,15 +307,14 @@
 ||http://vegito2400.github.io/NETFLIX_CLONE/^
 ||https://pages.tempisite.com/SupportMeta1008464743^
 ||http://exbtengineers.com/o/^
-||http://rebrand.ly/7c3139^
 ||http://ql86383-op36638.pages.dev/robots.txt/^
 ||http://bdvenlinea-credigil-blj.pages.dev/robots.txt/^
 ||http://omg2011.github.io/Netflix_Frontend^
 ||http://konfirm4si-dna.new-resmi.com/^
 ||https://facebook-authentication.tracehack.pro/landing/form/3a9415bb-5956-4abb-a5e9-b4c507469205^
 ||http://www.qiyee163.com/campus/^
+||http://postlab.homes/^
 ||http://nabilix-killer.github.io/instagram-commerce-stat-resume.github.io^
-||https://tinyurl.com/2j2pva3t^
 ||http://waseem2921.github.io/netflix_clone^
 ||http://htypdz.top/^
 ||http://ipraveendn.github.io/netflix-clone/^
@@ -321,6 +322,7 @@
 ||http://prashantsah07.github.io/Netflix-Clone/^
 ||http://metamaskinc.blogspot.am/^
 ||http://aapp-terzerlog.gitbook.io/^
+||http://ak-theartist.github.io/Netflix-Clone/^
 ||http://maxxl079.github.io/NetFlix-Clone/^
 ||http://bdvtepresta.pages.dev/robots.txt/^
 ||https://helpsuportcenter.com/robots.txt/^
@@ -331,7 +333,6 @@
 ||http://tuyafo789.icu/m/register/^
 ||http://pub-31e4d8bc98334a8cb35e346196d812a8.r2.dev/index.html^
 ||http://02-accounts-helpi.github.io/login/^
-||http://whatsapp-hkcs.com/^
 ||https://metmeioasktrie.gitbook.io/^
 ||https://delivery.attempt.failure.ebbs.co.za/public/LQaMJmSbb60pGpH2mrdMvBgiyD1vOqqP^
 ||https://klorrr-violat99s.business-managert.com/^
@@ -349,7 +350,6 @@
 ||http://mutasclogun.gitbook.io/us/^
 ||http://ghostrexiz.github.io/netflix/^
 ||http://nikhila-vynayaki.github.io/Netfilix-home-clone/^
-||https://cdn.dragon.cere.network/891/baear4if6zbxolrvqoddc5j6jp47nwmxrgqepufgr6nc4ujm425i4pbrzem/WAVE/Index.html^
 ||http://abhishekhecker.github.io/Netflix-clone-shitty-project^
 ||https://interbeneficiowebseguros.plataformadigitalenlinea.click/^
 ||https://dhl-express-group.blogspot.co.at/^
@@ -359,6 +359,7 @@
 ||https://sbcamcoommnumnjty.com/sql/ikhon/yto^
 ||http://pub-38076515d9c542c9bd395cc3f15d23ca.r2.dev/index.html^
 ||https://steam.workshopasset.com/^
+||http://29395341-coinbase.com/^
 ||http://rajkamalkanna.github.io/Facebook-Login-Page/^
 ||https://metmmmiszklogin.gitbook.io/us^
 ||http://card.xn--6qq986b3xl/higgs-domino/^
@@ -381,7 +382,6 @@
 ||http://shivvy-the-coder.github.io/Netflix_clone_project^
 ||https://app--trst.gitbook.io/en-us^
 ||https://meli-challenge-rbft4fxut-tomasbirbe.vercel.app/^
-||https://ebe-phi.vercel.app/verset.html^
 ||http://pub-f7dd5d24f0964a3d84ba98789e7112c9.r2.dev/index.html^
 ||https://soqmd-gm.top/^
 ||http://bhumiheda.github.io/Netflix^
@@ -406,6 +406,7 @@
 ||http://champion0007.github.io/netflixhosting.github.io^
 ||https://start-trazor-page.github.io/^
 ||http://pub-f93ab1d9907c472085520ee7033cd2a0.r2.dev/index.html^
+||http://sadiq0909.github.io/Netflix-clone/^
 ||https://help-trazor.github.io/^
 ||http://meta-recover.pages.dev/twenty.html^
 ||http://docs-waletconnectt.gitbook.io/^
@@ -422,7 +423,6 @@
 ||http://semz444real.github.io/makcikpakcik^
 ||https://telegram-fordating.vercel.app/^
 ||http://micrsoftbtsecureritypdfvoicepdf.weebly.com/^
-||https://kccdok.com/^
 ||https://telegram18newsexxx.pages.dev/^
 ||https://n-pro.vercel.app/^
 ||http://shobhit245.github.io/Netflix-Home-Page^
@@ -478,8 +478,8 @@
 ||https://metamask-nft.vercel.app/^
 ||http://davide-scr.github.io/Progetto-2/^
 ||http://rebrand.ly/20e051^
-||https://att-106957-104723.weeblysite.com/^
 ||http://netfilix-clones.netlify.app/^
+||https://metamasksigins.blogspot.com.cy/^
 ||https://sbcamcoommnumnjty.com/loyale/royale/can^
 ||http://pub-a24cf1603f1243d9bfadff3897816e64.r2.dev/index.html^
 ||http://tg.shijianzhongg.workers.dev/?notgs=1^
