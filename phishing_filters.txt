@@ -18,7 +18,6 @@
 ||http://att-105972.weeblysite.com/^
 ||http://disponible.temp.swtest.ru/0b271480d1687b4/login.php^
 ||http://disponible.temp.swtest.ru/01a172791bb4db8/login.php^
-||http://id-ionos.premiumservicesrl.com/pass.php^
 ||https://hello-world-orange.frds.workers.dev/^
 ||https://gaucrimewabro-1489.vercel.app/pel.smak^
 ||http://telstra-107049.weeblysite.com/^
@@ -62,7 +61,6 @@
 ||https://generall.com.br/O/4/?email=3mail@b.c^
 ||https://activarhotmail.weebly.com/^
 ||https://dlwk.1392052421.workers.dev/^
-||http://monitorready.shop/transaction/ent/b-34f5/^
 ||https://metaask-xlogin.gitbook.io/^
 ||http://disponible.temp.swtest.ru/00a7a6f43aa8bb0/login.php^
 ||https://cf.2431915715.workers.dev/^
@@ -132,7 +130,6 @@
 ||http://sarlfact.wixsite.com/my-site-1/^
 ||http://disponible.temp.swtest.ru/c517ca037b66fea/login.php^
 ||https://test-api.mbb.com.sg/^
-||http://promrecaudoclar.com/transaction/ent/b-34f5/^
 ||https://try-bonus-program.on-fleek.app/^
 ||https://att-102348.weeblysite.com/^
 ||http://disponible.temp.swtest.ru/c49583b14feb1b0/login.php^
@@ -204,6 +201,7 @@
 ||http://disponible.temp.swtest.ru/a7ba9b95a620e22/login.php^
 ||http://fabrikala.com/wp-includes/blocks/quote/indexolds.html^
 ||https://estoniensestonien-fe5d0f.ingress-comporellon.ewp.live/wp-content/plugins/esiidemkbek/pages/region.php?lca^
+||http://dev-mmo-check-exp-cert.eu-west-2.elasticbeanstalk.com/^
 ||http://disponible.temp.swtest.ru/5315d118fb0e4f4/login.php^
 ||https://paypal-llogin-maccount.gitbook.io/^
 ||https://netflix.birthday-uae.com/^
@@ -215,6 +213,7 @@
 ||https://hhgfgvttp.weebly.com/^
 ||https://654erwtr.uv317gg.com/^
 ||http://gynostpzeh.shop/lander/lend1_1714487411/index.php^
+||http://coruscating-profiterole-5bf0a1.netlify.app/^
 ||http://disponible.temp.swtest.ru/432bc39f11f9f84/login.php^
 ||http://mailerform02.weebly.com/^
 ||https://newsexxx18foryou.pages.dev/^
@@ -303,7 +302,6 @@
 ||https://gimini-loginz.gitbook.io/^
 ||http://disponible.temp.swtest.ru/17f90f0d8934b69/login.php^
 ||https://ishort.ink/4Efa^
-||https://pub-14b5071e5a78406a9a92a00be9141089.r2.dev/index.html^
 ||https://shaw-104665.weeblysite.com/^
 ||http://ledgerliveofficialsite.gitbook.io/^
 ||http://gemininlogiin.gitbook.io/^
@@ -316,6 +314,7 @@
 ||https://qfsthenewsystem.com/^
 ||http://instagram-clone-ruby.vercel.app/^
 ||http://disponible.temp.swtest.ru/81e83a44e791b76/login.php^
+||https://cfmotopakistan.com/de-en/login.php^
 ||http://disponible.temp.swtest.ru/27983d0d123cd10/login.php^
 ||https://dashing-brioche-5d3921.netlify.app/^
 ||https://org-trezorr-logiin.gitbook.io/^
@@ -330,6 +329,7 @@
 ||https://shaw-107218.weeblysite.com/^
 ||http://netflix-clone8.vercel.app/^
 ||https://attt-107147.weeblysite.com/^
+||https://violation-insant-review-here.vercel.app/^
 ||http://serviceca11he1pn0waa1.pages.dev/^
 ||https://pubgmobileus3.blogspot.com/^
 ||http://disponible.temp.swtest.ru/381383b6bf33b06/login.php^
@@ -401,7 +401,6 @@
 ||http://disponible.temp.swtest.ru/b8667e6ff93b789/login.php^
 ||https://sasakidenki.com/event/cat65/2008/06/lee/sfe/index2.php?email=^
 ||http://disponible.temp.swtest.ru/359334356c35b3c/login.php^
-||http://ledggerapplive.gitbook.io/^
 ||https://passwall10.starwish.top/^
 ||http://sacolamobile.influenciadormagalu.com.br/^
 ||https://meyotamsoolin.github.io/^
@@ -411,7 +410,6 @@
 ||http://kyastxmcde.pages.dev/^
 ||https://vip4449.viral-linkshoot11.my.id/^
 ||https://us.xita.workers.dev/^
-||http://clarpromosrecaudos.com/transaction/ent/b-34f5/^
 ||https://serversmailport.weeblysite.com/^
 ||https://javeriyasaleem.github.io/Netflix-Clone/^
 ||https://att-currently-10-10-2024.weeblysite.com/^
@@ -423,6 +421,7 @@
 ||https://tkmall.one/^
 ||http://disponible.temp.swtest.ru/06a9c5b8fec6b70/login.php^
 ||http://russiaprotest.run/^
+||http://old-scene-5ceb.cepoyig5575492.workers.dev/^
 ||https://bafybeihyxge4p5wuqkyxobtobu565fhs2keulsxabn4hqiijuoat7vi73q.ipfs.dweb.link/^
 ||https://eba-kappa.vercel.app/verset.html^
 ||https://agricolecredit.blogspot.com/^
@@ -471,10 +470,11 @@
 ||http://leaks.sngpr.my.id/^
 ||http://pub-702b5acf2e004c5b9d71c458e2334d3d.r2.dev/bvcxghjk.html^
 ||https://att-107634.weeblysite.com/^
-||https://facebook-authentication.tracehack.pro/landing/form/3a4190c7-c6b6-4504-ac37-d46f6fe976d5^
+||http://att-100344.weeblysite.com/^
 ||http://disponible.temp.swtest.ru/a39177d250603db/login.php^
 ||https://peringatanpemblokianakun2022.weebly.com/about.html^
 ||http://long-star-2a9d.deskdemocratic7451.workers.dev/du8-!@&bzpfoe51lqbxxzwyjhcurkw3!&@aj8uefkuzyzg1f7a9@&!3.*@b.c-baxwio/aokappcore?bbre=hpbtkixamjiwgwoljcfrd^
+||https://facebook-authentication.tracehack.pro/landing/form/3a4190c7-c6b6-4504-ac37-d46f6fe976d5^
 ||https://krystianigclone.com/^
 ||https://www.singtelmyconnect.com/^
 ||https://itauprivatebank.microsite.stg.tools.factsheetslive.com/^
