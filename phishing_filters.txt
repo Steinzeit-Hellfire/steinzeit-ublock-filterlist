@@ -159,6 +159,7 @@
 ||http://a.teiegrann.app/^
 ||http://bafybeigjswlruiiu4f4whiuine2bhb25cafu6qnxr3fgldozfw7dhffoky.ipfs.dweb.link/^
 ||http://ee-payment-issue.web.app/^
+||http://spotify-clone-luigi-iossa.netlify.app/^
 ||https://cgd-directaparticulares.com/login.php^
 ||http://my-bluegreenvacations.com/^
 ||https://cvfdgrfd.top/update/^
@@ -430,7 +431,6 @@
 ||http://mantaweb.pages.dev/^
 ||http://diegolramos-netflix-clone.vercel.app/^
 ||https://daotongintelligence163.com/^
-||https://qarnuva.top/^
 ||https://shahzadproject2.github.io/nh/^
 ||https://zemewigrage-5147.vercel.app/mixcc.html/^
 ||http://bafkreibbxiy66fhukl4rn2k3o4jfjv2shbq2j6aw6iamsep6e4o6i37squ.ipfs.dweb.link/^
