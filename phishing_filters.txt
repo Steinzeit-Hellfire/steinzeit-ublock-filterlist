@@ -205,6 +205,7 @@
 ||http://44569-coinbase.com/^
 ||http://www.alexess985.xyz/^
 ||https://cn53303.tw1.ru/web/^
+||https://b3dc9.dynv6.net/en-sg/tv^
 ||https://web3-resolver-enn.pages.dev/^
 ||https://puneetkumar1790.github.io/netflix-clone^
 ||https://rebrand.ly/ji036we^
@@ -282,7 +283,6 @@
 ||https://rigreiyommoija-3446.vercel.app/mixcc.html/^
 ||http://helpnets.info/c7182b900d1b3c4051hbbbd3670o73b6181d.html^
 ||https://www.e-receipts.co/signin?t=eyJhbGciOiJIUzI1NiJ9.eyJ0cmFja2luZ190b2tlbiI6IjcyMDY5OTYwLWRlMjItNGE3YS04NTcwLTczM2FkMTAxYjk5YiIsImNlbGwiOiJodHRwczovLzIxZzZqZnZoeTYuZXhlY3V0ZS1hcGkudXMtZWFzdC0yLmFtYXpvbmF3cy5jb20vcHJvZC9hcGkvcGhpc2hpbmdjYW1wYWlnbiIsImNhbXBhaWduX3Rva2VuIjoiMmI5ZmM0ZTMtZmQzOS00MDVjLWE2Y2YtMWFkNjg0YTNhZDU5IiwidGVzdF90b2tlbiI6ZmFsc2UsImV4dGVybmFsX3RyYWluaW5nIjpmYWxzZSwiZGlyZWN0X2RlbGl2ZXJ5Ijp0cnVlLCJpYXQiOjE3MzA0ODUxNjEsImlzcyI6Imh0dHBzOi8vYXBwLnBoaXNodGhyZWF0LmNvbSIsImV4cCI6MTczODI2MTE2MX0.3CL2Js9RTW4i8YPGNyBOBNhI0D1RL9HdwdhzrcDKG20^
-||https://basic-bundle-old-wind-d6db.noreplyaccountalert.workers.dev/^
 ||https://service-online.vip/^
 ||https://memrevbrandyet.netlify.app/^
 ||http://sportspa.onrender.com/instagram.html^
