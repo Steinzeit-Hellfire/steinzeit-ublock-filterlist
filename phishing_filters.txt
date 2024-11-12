@@ -77,6 +77,7 @@
 ||http://pub-71e16f3553a644d09f2647174dd7e96e.r2.dev/index.html^
 ||http://pub-72fdd0618fd348f7a128df12b7872944.r2.dev/index.html^
 ||http://pub-9afc1e15c45e46e796e2ece1f3d8e664.r2.dev/index.html^
+||https://amz.geolocalisation-auto-pro.top/?customer-id=km975bc21l78a-sp2353aweae14-ah3548o4gbefd/^
 ||http://pub-70e69d351fdd47719fff28ce677d9918.r2.dev/index.html^
 ||http://pub-7cc571585b9d44abadb858fe5b0ba8ab.r2.dev/index.html^
 ||https://uypa.com/docs/MzerpAjdLJiudkNKJDGDukfdhd574kghhjkfuHGJDj6ghjeKEPhgfjnsbnvds574hfhfgHDJNBhvcyeuidyvdbndmkd84y5ujdfjfjfkldujfjkwsjir/YWFsc29vZmlAdHJ1c3RyZS5jb20=^
@@ -490,7 +491,6 @@
 ||https://www.bybit-otc.com/^
 ||https://rcy-ed14bf.ingress-alpha.ewp.live/wp-content/plugins/pajmch/pages/region.php^
 ||https://xissouxeidauquoi-3788.vercel.app/run.mava^
-||https://bellsouth-swbell-activite.weebly.com/^
 ||http://pub-988ef8d98d4b4dc68ff5ab14084ce51d.r2.dev/index.html^
 ||http://pub-a24cf1603f1243d9bfadff3897816e64.r2.dev/index.html^
 ||http://pub-e4ee3c7a6ea643b093c9899a391e9e8c.r2.dev/index.html^
